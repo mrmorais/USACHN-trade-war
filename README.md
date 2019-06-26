@@ -1,13 +1,16 @@
 # USACHN-trade-war
-Análise de dados em rede para IMD0905 T01 201901
+Network data analysis on OEC. Made as final project to IMD0905 T01 201901 course.
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/191rwt3SrPLAR_wviErCkqeytjYBovwrj)
 
-### Matérias de referência
+## Motivation
 
-Este projeto se baseia em informações e análises econômicas por veículos jornalísticos dentre os quais os seguintes publicados em maio de 2019:
+This analysis is based on economic analysis and informations by economic journalistic vehicles, among which: 
 
-- BBC publica ["Quem tem mais a perder na guerra comercial entre EUA e China?"](https://www.bbc.com/portuguese/internacional-48261648)
-- G1 publica ["Guerra comercial EUA x China: como disputa pode atingir em cheio o Brasil"](https://g1.globo.com/economia/noticia/2019/05/23/guerra-comercial-eua-x-china-como-disputa-pode-atingir-em-cheio-o-brasil.ghtml)
+- South China Morning Post ["The US-China trade war has been a boon for Brazil's soybean farmers. But can they keep up with Chinese demand?"](https://www.scmp.com/business/companies/article/3010480/us-china-trade-war-has-been-boon-brazils-soybean-farmers-can)
+- Council on Foreign Relations ["Will There Be Winners in the U.S.-China Trade War?"](https://www.cfr.org/article/will-there-be-winners-us-china-trade-war)
 
-O vídeo no canal BBC News Brasil ["China x EUA: O que o Brasil ganha e perde com a guerra comercial"](https://www.youtube.com/watch?v=L78mLnTu-Rg) também foi um recurso consultado.
+## Contributors
+
+| <img src="https://avatars1.githubusercontent.com/u/8071409?s=460&v=4" width="100"/><br/> <a href="https://github.com/mrmorais">@mrmorais</a> | <img src="https://avatars3.githubusercontent.com/u/26605942?s=460&v=4" width="100" /><br/> <a href="https://github.com/Jhon3">@Jhon3</a> | <img src="https://avatars3.githubusercontent.com/u/9592870?s=460&v=4" width="100" /><br/> <a href="https://github.com/gustavowl">@gustavowl</a> |
+|-|-|-|

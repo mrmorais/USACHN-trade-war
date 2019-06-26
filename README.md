@@ -1,4 +1,4 @@
-# USACHN-trade-war
+# Brazil in the USA-CHN Trade War
 Network data analysis on OEC. Made as final project to IMD0905 T01 201901 course.
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/191rwt3SrPLAR_wviErCkqeytjYBovwrj)
@@ -9,6 +9,12 @@ This analysis is based on economic analysis and informations by economic journal
 
 - South China Morning Post ["The US-China trade war has been a boon for Brazil's soybean farmers. But can they keep up with Chinese demand?"](https://www.scmp.com/business/companies/article/3010480/us-china-trade-war-has-been-boon-brazils-soybean-farmers-can)
 - Council on Foreign Relations ["Will There Be Winners in the U.S.-China Trade War?"](https://www.cfr.org/article/will-there-be-winners-us-china-trade-war)
+
+## Datasource
+
+All data used on this project were provided by [OEC (The Observatory of Economic Complexity)](https://atlas.media.mit.edu/en/) MIT media laboratory and are licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+We're using the [Standard International Trade Classification](https://en.wikipedia.org/wiki/Standard_International_Trade_Classification) to classify exports and imports goods.
 
 ## Contributors
 

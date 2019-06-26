@@ -3,6 +3,10 @@ Network data analysis on OEC. Made as final project to IMD0905 T01 201901 course
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/191rwt3SrPLAR_wviErCkqeytjYBovwrj)
 
+[Read about our analysis in this Medium article.](https://medium.com/commercial-analysis/brazil-in-the-us-china-trade-cold-war-3653af798e73)
+
+<img src="https://cdn-images-1.medium.com/max/800/1*ofANIaNSbUE1PvDz_HCzSQ.jpeg" width="600"/>
+
 ## Motivation
 
 This analysis is based on economic analysis and informations by economic journalistic vehicles, among which: 
